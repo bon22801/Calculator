@@ -24,19 +24,16 @@
   font-size: 27px;
 }
 
-.nums {
-  background-color: white;
-}
-
 .operands {
   background-color: #d9d9d9;
 }
 
 .buttons {
+  background-color: white;
   font-size: 48px;
   width: 70px;
   border-color: black;
   border: 2px;
   margin: 20px 10px;
-  display: inline-block
+  display: inline-block;
 }
